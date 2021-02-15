@@ -1,15 +1,15 @@
-= Shared Concepts
+# Shared Concepts
 
-== Workshop: "`Achieving a shared understanding of concepts`"
+## Workshop: "`Achieving a shared understanding of concepts`"
 
 Join us on the 13th and the 15th of April for an exchange of views on how to achieve a shared understanding of concepts across domains.
 
-=== Practical information
+### Practical information
 
 * Day 1: April 13, 2021, 3 hours from UTC 13:00
 * Day 2: April 15, 2021, 3 hours from UTC 05:00
 
-=== Purpose of the Workshop
+### Purpose of the Workshop
 
 Have you seen a term defined differently in one place from another?
 Do you use or manage standardized terminologies/glossaries/thesauri?
@@ -29,7 +29,7 @@ The workshop will focus on discussing a framework and procedures for
 tackling these issues and work out any technical details at a later
 time.
 
-=== Organizers & Supporting Parties
+### Organizers & Supporting Parties
 
 The ISO/TC 211 Terminology Maintenance Group (TMG) is responsible
 for matters relating to terminology within ISO/TC 211, which
@@ -39,7 +39,7 @@ TMG coordinates and publishes a multi-lingual glossary of terms, see
 https://github.com/ISO-TC211/TMG.
 
 
-=== Registration and contacts
+### Registration and contacts
 
 Please register at this form, or directly contact sharedconcepts@tc211tmg.org.
 
