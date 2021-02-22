@@ -32,7 +32,7 @@ time.
 ==== Organizers & Supporting Parties
 
 The ISO/TC 211 Terminology Maintenance Group (TMG) is responsible
-for matters relating to terminology within ISO/TC 211, which
+for matters relating to terminology within https://committee.iso.org/home/tc211[ISO/TC 211 Geographic information/Geomatics], which
 includes the management, harmonization, and promotion of terminology
 concepts, and their relationships in ISO/TC 211 deliverables. The
 TMG coordinates and publishes a multi-lingual glossary of terms, see
