@@ -43,4 +43,4 @@ https://github.com/ISO-TC211/TMG.
 
 Please register at this form, or directly contact sharedconcepts@tc211tmg.org.
 
-https://form.jotform.com/210521626004440
+<script type="text/javascript" src="https://form.jotform.com/jsform/210521626004440"></script>
