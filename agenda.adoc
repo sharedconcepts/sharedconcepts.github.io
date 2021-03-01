@@ -2,7 +2,8 @@
 
 This agenda is tentative.
 
-=== Day 1
+== Day 1
+=== Introduction to Cross Domain Use of Concepts and associated problems and issues
 
 |===
 |Time | Session title
@@ -12,7 +13,12 @@ This agenda is tentative.
 
 |===
 
-=== Day 2
+=== Open discussion with the participants 
+
+
+== Day 2
+
+=== Potential solutions
 
 |===
 |Time | Session title
@@ -21,3 +27,5 @@ This agenda is tentative.
 | 9:30 | Presentation 2
 
 |===
+
+=== Moving forward
