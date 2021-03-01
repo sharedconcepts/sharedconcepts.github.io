@@ -2,30 +2,51 @@
 
 This agenda is tentative.
 
-== Day 1
-=== Introduction to Cross Domain Use of Concepts and associated problems and issues
+=== Day 1
+==== Introduction to Cross Domain Use of Concepts and associated problems and issues
 
 |===
-|Time | Session title
+|Time - UTC | Session title
 
-| 9:00 | Presentation 1
-| 9:30 | Presentation 2
+| 13:00 | Welcome & Introduction (10 min)
+| 13:10 | Presentation 1 (20 min) - Reserved
+| 13:30 | Presentation 2 (20 min) - Pending
+| 13:50 | Break 1 (10 min) 
+| 14:00 | Presentation 3 (20 min) - Pending
+| 14:20 | Speed 1 (10 min) - Open
+| 14:30 | Speed 2 (10 min) - Open
+| 14:40 | Speed 3 (10 min) - Open
+| 14:50 | Break 1 (10 min) - Open
+|===
+
+==== Open discussion with the participants (50 min)
+15:00 
+
+==== Closing and reminder about Day 2 meeting (10 min)
+15:50
+  
+=== Day 2
+
+==== Potential solutions
+
+|===
+|Time - UTC | Session title
+| 05:00 | Welcome & Introduction (10 min) 
+| 05:10 | Presentation 4 (20 min) - Reserved
+| 05:30 | Presentation 5 (20 min) - Pending
+| 05:50 | Break 1 (10 min)
+| 06:00 | Presentation 6 (20 min) - Pending
+| 06:20 | Speed 4 (10 min) - Open
+| 06:30 | Speed 5 (10 min) - Open
+| 06:40 | Speed 6 (10 min) - Open
+| 06:50 | Break 1 (10 min) - Open
 
 |===
 
-=== Open discussion with the participants 
+==== Moving forward (50 min)
 
+07:00
+  
+==== Closing (10 min)
 
-== Day 2
-
-=== Potential solutions
-
-|===
-|Time | Session title
-
-| 9:00 | Presentation 1
-| 9:30 | Presentation 2
-
-|===
-
-=== Moving forward
+07:50
