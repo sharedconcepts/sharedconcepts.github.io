@@ -19,7 +19,7 @@ This agenda is under revision, please check back...
 | 14:20 | Speed 1 (10 min) - Open
 | 14:30 | Speed 2 (10 min) - Open
 | 14:40 | Speed 3 (10 min) - Open
-| 14:50 | Break 1 (10 min) - Open
+| 14:50 | Break 2 (10 min)
 | 15:00 | Open discussion with the participants (50 min)
 | 15:50 | Closing and reminder about Day 2 meeting (10 min)
 |===
@@ -40,7 +40,7 @@ This agenda is under revision, please check back...
 | 06:20 | Speed 4 (10 min) - Open
 | 06:30 | Speed 5 (10 min) - Open
 | 06:40 | Speed 6 (10 min) - Open
-| 06:50 | Break 1 (10 min) - Open
+| 06:50 | Break 2 (10 min)
 | 07:00 | Moving Forward - Open discussion with the participants (50 min)
 | 07:50 | Closing (10 min)
 |===
