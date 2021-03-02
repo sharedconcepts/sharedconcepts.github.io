@@ -1,15 +1,15 @@
-== Shared Concepts
+= Shared Concepts
 
-=== Workshop: "`Achieving a shared understanding of concepts`"
+== Workshop: "`Achieving a shared understanding of concepts`"
 
 Join us on the 13th and the 15th of April for an exchange of views on how to achieve a shared understanding of concepts - terminology and definitions - across domains.
 
-==== Practical information
+=== Practical information
 
 * https://www.timeanddate.com/worldclock/meetingdetails.html?year=2021&month=4&day=13&hour=13&min=0&sec=0&p1=136&p2=69&p3=102&p4=248&p5=240&p6=264&p7=137&p8=263[Day 1: April 13, 2021, 3 hours from UTC 13:00]
 * https://www.timeanddate.com/worldclock/meetingdetails.html?year=2021&month=4&day=15&hour=5&min=0&sec=0&p1=136&p2=69&p3=102&p4=248&p5=240&p6=264&p7=137&p8=263[Day 2: April 15, 2021, 3 hours from UTC 05:00]
 
-==== Purpose of the Workshop
+=== Purpose of the Workshop
 
 Have you seen a term defined differently in one place from another?
 Do you use or manage standardized terminologies/glossaries/thesauri?
@@ -29,11 +29,14 @@ The workshop will focus on discussing a framework and procedures for
 tackling these issues and work out any technical details at a later
 time.
 
-==== Workshop Agenda
+=== Workshop Agenda
 
 https://github.com/sharedconcepts/sharedconcepts.github.io/blob/master/agenda.adoc[The agenda for the workshop is under development, please check often.]
 
-==== Organizers & Supporting Parties
+=== Organizers & Supporting Parties
+
+[.left]
+image::https://avatars.githubusercontent.com/u/7703150?s=200&v=4[ISO logo,100,100]
 
 The ISO/TC 211 Terminology Maintenance Group (TMG) is responsible
 for matters relating to terminology within https://committee.iso.org/home/tc211[ISO/TC 211 Geographic information/Geomatics], which
@@ -42,7 +45,28 @@ concepts, and their relationships in ISO/TC 211 deliverables. The
 TMG coordinates and publishes a multi-lingual glossary of terms, see
 https://github.com/ISO-TC211/TMG.
 
-==== Registration and contacts
+[.left]
+image::https://avatars.githubusercontent.com/u/24904375?s=200&v=4[Ribose logo,100,100][Ribose logo,100,100]
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam eleifend ultrices velit ac pellentesque. Integer volutpat velit in ante laoreet dignissim. Aliquam condimentum fermentum velit, et eleifend lacus pretium viverra. Quisque at vulputate risus. Aenean nulla nunc, vulputate eget tellus id, consectetur aliquet metus. Vestibulum at odio felis. Cras tristique arcu luctus sem rhoncus, ac tristique sem bibendum. Vestibulum varius ullamcorper neque in scelerisque. Sed non metus dictum, luctus ante nec, accumsan nibh. Donec eget risus ac risus semper viverra at non nisi. Suspendisse gravida nibh tempus, convallis orci a, pulvinar velit. Aliquam placerat consectetur ante, ac euismod erat semper id. Sed tincidunt eleifend mauris, quis pulvinar eros efficitur id.
+
+[.left]
+image::https://eng.sdfe.dk/media/2917336/sdfe_cmyk_uk.png[SDFE logo,181,74]
+
+The https://eng.sdfe.dk/[Danish Agency for Data Supply and 
+Efficiency] is tasked with ensuring the presence of a sound 
+foundation of data underpinning decisions and major transitions in 
+society. In the past, this entailed updating the topographical maps, 
+which served as the basis for public administration in Denmark. Their 
+role today, is to ensure that data can effectively meet the new 
+challenges and unleash the potential of a digital society. This 
+requires interoperable public sector data, which can be combined and 
+used with the geographic data foundation. Consequently, the task of 
+the Danish Agency for Data Supply and Efficiency - as a data 
+producer, data distributor, data partner and basic data authority - 
+is to provide the data foundation for a digital Denmark.
+
+=== Registration and contacts
 
 Please register at this form, or directly contact sharedconcepts@tc211tmg.org.
 
