@@ -31,7 +31,7 @@ time.
 
 ==== Workshop Agenda
 
-[The agenda for the workshop is under development, please check often.](https://github.com/sharedconcepts/sharedconcepts.github.io/blob/master/agenda.adoc)
+https://github.com/sharedconcepts/sharedconcepts.github.io/blob/master/agenda.adoc[The agenda for the workshop is under development, please check often.]
 
 ==== Organizers & Supporting Parties
 
