@@ -29,6 +29,10 @@ The workshop will focus on discussing a framework and procedures for
 tackling these issues and work out any technical details at a later
 time.
 
+==== Workshop Agenda
+
+[The agenda for the workshop is under development, please check often.](https://github.com/sharedconcepts/sharedconcepts.github.io/blob/master/agenda.adoc)
+
 ==== Organizers & Supporting Parties
 
 The ISO/TC 211 Terminology Maintenance Group (TMG) is responsible
@@ -37,7 +41,6 @@ includes the management, harmonization, and promotion of terminology
 concepts, and their relationships in ISO/TC 211 deliverables. The
 TMG coordinates and publishes a multi-lingual glossary of terms, see
 https://github.com/ISO-TC211/TMG.
-
 
 ==== Registration and contacts
 
