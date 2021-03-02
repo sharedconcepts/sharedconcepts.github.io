@@ -20,15 +20,13 @@ This agenda is under revision, please check back...
 | 14:30 | Speed 2 (10 min) - Open
 | 14:40 | Speed 3 (10 min) - Open
 | 14:50 | Break 1 (10 min) - Open
+| 15:00 | Open discussion with the participants (50 min)
+| 15:50 | Closing and reminder about Day 2 meeting (10 min)
 |===
-
-==== Open discussion with the participants (50 min)
-15:00 
-
-==== Closing and reminder about Day 2 meeting (10 min)
-15:50
   
 === Day 2
+
+[April 15, 2021 UTC 06:00](https://www.timeanddate.com/worldclock/meetingdetails.html?year=2021&month=4&day=15&hour=6&min=0&sec=0&p1=136&p2=69&p3=102&p4=248&p5=240&p6=264&p7=137&p8=263)
 
 ==== Potential solutions
 
@@ -43,13 +41,6 @@ This agenda is under revision, please check back...
 | 06:30 | Speed 5 (10 min) - Open
 | 06:40 | Speed 6 (10 min) - Open
 | 06:50 | Break 1 (10 min) - Open
-
+| 07:00 | Moving Forward - Open discussion with the participants (50 min)
+| 07:50 | Closing (10 min)
 |===
-
-==== Moving forward (50 min)
-
-07:00
-  
-==== Closing (10 min)
-
-07:50
