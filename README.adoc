@@ -35,9 +35,13 @@ The link:agenda.html[agenda for the workshop is under development], please check
 
 === Organizers & Supporting Parties
 
-[.left]
+[cols="a,7a"]
+|===
+
+|
 image::https://avatars.githubusercontent.com/u/7703150?s=200&v=4[ISO logo,100,100]
 
+|
 The ISO/TC 211 Terminology Maintenance Group (TMG) is responsible
 for matters relating to terminology within https://committee.iso.org/home/tc211[ISO/TC 211 Geographic information/Geomatics], which
 includes the management, harmonization, and promotion of terminology
@@ -45,26 +49,30 @@ concepts, and their relationships in ISO/TC 211 deliverables. The
 TMG coordinates and publishes a multi-lingual glossary of terms, see
 https://github.com/ISO-TC211/TMG.
 
-[.left]
-image::https://avatars.githubusercontent.com/u/24904375?s=200&v=4[Ribose logo,100,100][Ribose logo,100,100]
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam eleifend ultrices velit ac pellentesque. Integer volutpat velit in ante laoreet dignissim. Aliquam condimentum fermentum velit, et eleifend lacus pretium viverra. Quisque at vulputate risus. Aenean nulla nunc, vulputate eget tellus id, consectetur aliquet metus. Vestibulum at odio felis. Cras tristique arcu luctus sem rhoncus, ac tristique sem bibendum. Vestibulum varius ullamcorper neque in scelerisque. Sed non metus dictum, luctus ante nec, accumsan nibh. Donec eget risus ac risus semper viverra at non nisi. Suspendisse gravida nibh tempus, convallis orci a, pulvinar velit. Aliquam placerat consectetur ante, ac euismod erat semper id. Sed tincidunt eleifend mauris, quis pulvinar eros efficitur id.
-
-[.left]
+|
 image::https://eng.sdfe.dk/media/2917336/sdfe_cmyk_uk.png[SDFE logo,181,74]
-
-The https://eng.sdfe.dk/[Danish Agency for Data Supply and 
-Efficiency] is tasked with ensuring the presence of a sound 
-foundation of data underpinning decisions and major transitions in 
-society. In the past, this entailed updating the topographical maps, 
-which served as the basis for public administration in Denmark. Their 
-role today, is to ensure that data can effectively meet the new 
-challenges and unleash the potential of a digital society. This 
-requires interoperable public sector data, which can be combined and 
-used with the geographic data foundation. Consequently, the task of 
-the Danish Agency for Data Supply and Efficiency - as a data 
-producer, data distributor, data partner and basic data authority - 
+|
+The https://eng.sdfe.dk/[Danish Agency for Data Supply and
+Efficiency] is tasked with ensuring the presence of a sound
+foundation of data underpinning decisions and major transitions in
+society. In the past, this entailed updating the topographical maps,
+which served as the basis for public administration in Denmark. Their
+role today, is to ensure that data can effectively meet the new
+challenges and unleash the potential of a digital society. This
+requires interoperable public sector data, which can be combined and
+used with the geographic data foundation. Consequently, the task of
+the Danish Agency for Data Supply and Efficiency - as a data
+producer, data distributor, data partner and basic data authority -
 is to provide the data foundation for a digital Denmark.
+
+|
+image::https://avatars.githubusercontent.com/u/24904375?s=200&v=4[Ribose logo,100,100][Ribose logo,100,100]
+|
+https://www.ribose.com[Ribose] is an award-winning global developer of asymmetric security™ and standardization technologies trusted by industries with heightened cybersecurity needs. Ribose is a Deloitte Technology FAST 20 and Red Herring Top 100 Global company, and received the CSA APAC Enterprise Award and several Stevie® Awards for cybersecurity innovations. Ribose is the only cloud service provider (CSP) triple-assured by the Cloud Security Alliance, first to achieve certification to the highest security tiers in NIST CSF and MTCS.
+
+|===
+
 
 === Registration and contacts
 

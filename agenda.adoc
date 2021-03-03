@@ -2,17 +2,19 @@
 
 This agenda is under revision, please check back...
 
-=== https://www.timeanddate.com/worldclock/meetingdetails.html?year=2021&month=4&day=13&hour=13&min=0&sec=0&p1=136&p2=69&p3=102&p4=248&p5=240&p6=264&p7=137&p8=263[Day 1 - April 13, 2021 UTC 13:00]
+=== Day 1
+ https://www.timeanddate.com/worldclock/meetingdetails.html?year=2021&month=4&day=13&hour=13&min=0&sec=0&p1=136&p2=69&p3=102&p4=248&p5=240&p6=264&p7=137&p8=263[April 13, 2021 UTC 13:00 (see international times)]
 
 ==== Introduction to Cross Domain Use of Concepts and associated problems and issues
 
+[cols="a,4a"]
 |===
 |Time - UTC | Session title
 
 | 13:00 | Welcome & Introduction (10 min)
 | 13:10 | Presentation 1 (20 min) - Reserved
 | 13:30 | Presentation 2 (20 min) - Pending
-| 13:50 | Break 1 (10 min) 
+| 13:50 | Break 1 (10 min)
 | 14:00 | Presentation 3 (20 min) - Pending
 | 14:20 | Speed 1 (10 min) - Open
 | 14:30 | Speed 2 (10 min) - Open
@@ -20,15 +22,19 @@ This agenda is under revision, please check back...
 | 14:50 | Break 2 (10 min)
 | 15:00 | Open discussion with the participants (50 min)
 | 15:50 | Closing and reminder about Day 2 meeting (10 min)
+
 |===
-  
-=== https://www.timeanddate.com/worldclock/meetingdetails.html?year=2021&month=4&day=15&hour=5&min=0&sec=0&p1=136&p2=69&p3=102&p4=248&p5=240&p6=264&p7=137&p8=263[Day 2 - April 15, 2021 UTC 05:00]
+
+=== Day 2
+ https://www.timeanddate.com/worldclock/meetingdetails.html?year=2021&month=4&day=15&hour=5&min=0&sec=0&p1=136&p2=69&p3=102&p4=248&p5=240&p6=264&p7=137&p8=263[Day 2 - April 15, 2021 UTC 05:00 (see international times)]
 
 ==== Potential solutions
 
+[cols="a,4a"]
 |===
 |Time - UTC | Session title
-| 05:00 | Welcome & Introduction (10 min) 
+
+| 05:00 | Welcome & Introduction (10 min)
 | 05:10 | Presentation 4 (20 min) - Reserved
 | 05:30 | Presentation 5 (20 min) - Pending
 | 05:50 | Break 1 (10 min)
@@ -39,4 +45,5 @@ This agenda is under revision, please check back...
 | 06:50 | Break 2 (10 min)
 | 07:00 | Moving Forward - Open discussion with the participants (50 min)
 | 07:50 | Closing (10 min)
+
 |===
