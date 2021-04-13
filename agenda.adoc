@@ -44,8 +44,9 @@ https://www.timeanddate.com/worldclock/meetingdetails.html?year=2021&month=4&day
 | 06:20 | Speed 4 (10 min) | Pending Title
 | 06:30 | Speed 5 (10 min) | Importance of shared vocabularies in deriving geographic data of varying levels of detail
 | 06:40 | Speed 6 (10 min) | Terminology for the South African Spatial Data Infrastructure.
-| 06:50 | Break 2 (10 min) |
-| 07:00 | Moving Forward - Open discussion with the participants (50 min) | Heidi Vanparys - The Danish Agency for Data Supply and Efficiency + team
+| 06:50 | Speed 7 (10 min) | Is an upper-level ontology useful?
+| 07:00 | Break 2 (10 min) |
+| 07:10 | Moving Forward - Open discussion with the participants (50 min) | Heidi Vanparys - The Danish Agency for Data Supply and Efficiency + team
 | 07:45 | Reaction and Final Thoughts (10 min) | Agneta Engberg, Chairperson, ISO/TC 211 and Peter Parslow, Chairperson-elect, ISO/TC 211
 | 07:55 | Closing (5 min) |
 
