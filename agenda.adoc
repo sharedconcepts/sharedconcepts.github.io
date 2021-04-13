@@ -14,10 +14,10 @@ https://www.timeanddate.com/worldclock/meetingdetails.html?year=2021&month=4&day
 
 | 13:00 | Welcome & Introduction (10 min) | Ms Agneta Engberg, Chairperson, ISO/TC 211 and Mr. Reese Plews, Terminology Maintenance Group, ISO/TC 211 
 | 13:10 | Presentation 1 (20 min) | Concepts - How to describe and harmonize them (Danish experiences)  
-| 13:30 | Presentation 2 (10 min) | Terminology Related Presentation from ISO/TC 211
+| 13:30 | Presentation 2 (10 min) | ISO/TC 211 Terminology Management and the Multi-Lingual Glossary of Terms
 | 13:40 | Break 1 (10 min) | 
 | 13:50 | Presentation 3 (20 min) | SKOS-structured referencing between a domain thesaurus, international standards, and large controlled vocabularies – The case of CaLAThe
-| 14:10 | Presentation 4 (20 min) | Pending Title
+| 14:10 | Presentation 4 (20 min) | ISO SMART and Terminology
 | 14:30 | Speed 1 (10 min) | A Case of Developing Community Terminology and Concept for Reporting Dataset Quality Information
 | 14:40 | Speed 2 (10 min) | Divided by a common language: Bridging the gap between the ideal world of geoinformatics and the messy realities of geodesy
 | 14:50 | Break 2 (10 min) | 
