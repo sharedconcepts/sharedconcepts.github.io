@@ -12,7 +12,7 @@ https://www.timeanddate.com/worldclock/meetingdetails.html?year=2021&month=4&day
 |===
 |Time - UTC | Session | Title
 
-| 13:00 | Welcome & Introduction (10 min) | Ms Agneta Engberg, Chairperson, ISO/TC 211, Mr. Peter Parslow, Chairperson-elect, ISO/TC211, and Mr. Reese Plews, Terminology Maintenance Group, ISO/TC 211 
+| 13:00 | Welcome & Introduction (10 min) | Agneta Engberg, Chairperson, ISO/TC 211, Peter Parslow, Chairperson-elect, ISO/TC211, and Reese Plews, Terminology Maintenance Group, ISO/TC 211 
 | 13:10 | Presentation 1 (20 min) | Concepts - How to describe and harmonize them (Danish experiences)  
 | 13:30 | Presentation 2 (10 min) | ISO/TC 211 Terminology Maintenance and the Multi-Lingual Glossary of Terms
 | 13:40 | Break 1 (10 min) | 
@@ -36,7 +36,7 @@ https://www.timeanddate.com/worldclock/meetingdetails.html?year=2021&month=4&day
 |===
 |Time - UTC | Session | Title
 
-| 05:00 | Welcome & Recap of Day 1 (10 min) | Mr. Jan Hjelmager, The Danish Agency for Data Supply and Efficiency
+| 05:00 | Welcome & Recap of Day 1 (10 min) | Jan Hjelmager, The Danish Agency for Data Supply and Efficiency
 | 05:10 | Presentation 4 (20 min) | FAIR enough - discovery of interoperability specifications in the inconsistent, complex, overlapping and evolving "real world" 
 | 05:30 | Presentation 5 (20 min) | NATO Terminology Programme
 | 05:50 | Break 1 (10 min) |
@@ -46,7 +46,7 @@ https://www.timeanddate.com/worldclock/meetingdetails.html?year=2021&month=4&day
 | 06:40 | Speed 6 (10 min) | Terminology for the South African Spatial Data Infrastructure.
 | 06:50 | Break 2 (10 min) |
 | 07:00 | Moving Forward - Open discussion with the participants (50 min) | Heidi Vanparys - The Danish Agency for Data Supply and Efficiency + team
-| 07:45 | Reaction and Final Thoughts (10 min) | Ms Agneta Engberg, Chairperson, ISO/TC 211
+| 07:45 | Reaction and Final Thoughts (10 min) | Agneta Engberg, Chairperson, ISO/TC 211 and Peter Parslow, Chairperson-elect, ISO/TC 211
 | 07:55 | Closing (5 min) |
 
 |===
