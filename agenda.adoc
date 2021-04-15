@@ -15,7 +15,7 @@ https://www.timeanddate.com/worldclock/meetingdetails.html?year=2021&month=4&day
 | 13:30 | Presentation 2 (10 min) | ISO/TC 211 Terminology Maintenance and the Multi-Lingual Glossary of Terms (by Reese Plews)
 | 13:40 | Break 1 (10 min) | 
 | 13:50 | Presentation 3 (20 min) | SKOS-structured referencing between a domain thesaurus, international standards, and large controlled vocabularies – The case of CaLAThe (by Erik Stubkjær)
-| 14:10 | Presentation 4 (20 min) | ISO SMART and Terminology (Ronald Tse, Ribose)
+| 14:10 | Presentation 4 (20 min) | ISO SMART and Terminology (Ronald Tse)
 | 14:30 | Speed 1 (10 min) | A Case of Developing Community Terminology and Concept for Reporting Dataset Quality Information (by Ge Peng)
 | 14:40 | Presentation 5 (20 min) | NATO Terminology Programme (by Folkert Zijlstra)
 | 15:00 | Speed 2 (10 min) | Is an upper-level ontology useful? (by Peter Winstanley)
