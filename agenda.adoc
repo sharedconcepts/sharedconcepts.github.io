@@ -17,10 +17,10 @@ https://www.timeanddate.com/worldclock/meetingdetails.html?year=2021&month=4&day
 | 13:50 | Presentation 3 (20 min) | SKOS-structured referencing between a domain thesaurus, international standards, and large controlled vocabularies – The case of CaLAThe (by Erik Stubkjær)
 | 14:10 | Presentation 4 (20 min) | ISO SMART and Terminology (Ronald Tse, Ribose)
 | 14:30 | Speed 1 (10 min) | A Case of Developing Community Terminology and Concept for Reporting Dataset Quality Information (by Ge Peng)
-| 14:40 | Speed 2 (10 min) | Divided by a common language: Bridging the gap between the ideal world of geoinformatics and the messy realities of geodesy (by Thomas Knudsen)
-| 14:50 | Speed 3 (10 min) | Is an upper-level ontology useful? (by Peter Winstanley)
-| 15:00 | Break 2 (10 min) | 
-| 15:10 | Open discussion with the participants (45 min) | Heidi Vanparys - The Danish Agency for Data Supply and Efficiency + team
+| 14:40 | Presentation 5 (20 min) | NATO Terminology Programme (by Folkert Zijlstra)
+| 15:00 | Speed 2 (10 min) | Is an upper-level ontology useful? (by Peter Winstanley)
+| 15:10 | Break 2 (10 min) | 
+| 15:20 | Open discussion 1 with the participants (45 min) | Heidi Vanparys - The Danish Agency for Data Supply and Efficiency + team
 | 15:55 | Closing and reminder about Day 2 meeting (5 min) | 
 
 |===
@@ -36,16 +36,17 @@ https://www.timeanddate.com/worldclock/meetingdetails.html?year=2021&month=4&day
 |Time - UTC | Session | Title
 
 | 05:00 | Welcome & Recap of Day 1 (10 min) | Jan Hjelmager, The Danish Agency for Data Supply and Efficiency
-| 05:10 | Presentation 4 (20 min) | FAIR enough - discovery of interoperability specifications in the inconsistent, complex, overlapping and evolving "real world" 
-| 05:30 | Presentation 5 (20 min) | NATO Terminology Programme
+| 05:10 | Presentation 5 (20 min) | FAIR enough - discovery of interoperability specifications in the inconsistent, complex, overlapping and evolving "real world" 
+| 05:30 | Speed 3 (10 min) | Divided by a common language: Bridging the gap between the ideal world of geoinformatics and the messy realities of geodesy (by Thomas Knudsen)
+| 05:40 | Speed 4 (10 min) | Towards creating concept systems for system domains -- Reminding some IEC SRG ideas (by Alexander Samarin)
 | 05:50 | Break 1 (10 min) |
-| 06:00 | Presentation 6 (20 min) | Create and Maintain glossaries for your project
-| 06:20 | Speed 4 (10 min) | Pending Title
-| 06:30 | Speed 5 (10 min) | Importance of shared vocabularies in deriving geographic data of varying levels of detail
-| 06:40 | Speed 6 (10 min) | Terminology for the South African Spatial Data Infrastructure.
+| 06:00 | Presentation 6 (20 min) | Create and Maintain glossaries for your project (by Ankita Tripathi)
+| 06:20 | Speed 5 (10 min) | Pending Title
+| 06:30 | Speed 6 (10 min) | Importance of shared vocabularies in deriving geographic data of varying levels of detail (by Jagadish Boodala)
+| 06:40 | Speed 7 (10 min) | Terminology for the South African Spatial Data Infrastructure (by Antony K Cooper)
 | 06:50 | Break 2 (10 min) |
-| 07:00 | Moving Forward - Open discussion with the participants (45 min) | Heidi Vanparys - The Danish Agency for Data Supply and Efficiency + team
-| 07:45 | Reaction and Final Thoughts (10 min) | Agneta Engberg, Chairperson, ISO/TC 211 and Peter Parslow, Chairperson-elect, ISO/TC 211
+| 07:00 | Moving Forward - Open discussion 2 with the participants (45 min) | Heidi Vanparys - The Danish Agency for Data Supply and Efficiency + team
+| 07:45 | Reaction and Final Thoughts (10 min) | Peter Parslow, Chairperson-elect, ISO/TC 211
 | 07:55 | Closing (5 min) |
 
 |===
